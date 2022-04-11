@@ -2,10 +2,10 @@
 
 #**To-do List Application made using MERN-STACK**
 
-M = MongoDb (On cloud using Atlas)
-E = Express 
-R = React
-N = NodeJS
+- M = MongoDb (On cloud using Atlas)
+- E = Express 
+- R = React
+- N = NodeJS
 
 #**Dependecies needed to run the server App:**
 - bcrypt: "^5.0.1",
