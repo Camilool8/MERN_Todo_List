@@ -113,7 +113,7 @@ const AuthBox = ({register}) => {
                             Don't have an account? <Link to="/register">Register now!</Link>
                             </p>
                             <br></br><br></br>
-                            <p className= "AuthFooter">
+                            <p className= "auth__ref">
                                 Made by Jose Joga - <a href="https://github.com/Camilool8" target="_blank" rel="noopener noreferrer">Github</a>
                             </p>
                         </div>
