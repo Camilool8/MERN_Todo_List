@@ -27,5 +27,10 @@
 - sass: "^1.50.0",
 - web-vitals: "^2.1.4"
 
+#**Dependecies needed to run the App in developer mode:**
+- concurrently: "^7.1.0",
+- nodemon: "^2.0.15"
+
+
 **#Live version deployes on Heroku**
 - https://todo-app-mern-joga.herokuapp.com/
