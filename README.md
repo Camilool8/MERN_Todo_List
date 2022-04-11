@@ -34,4 +34,5 @@
 
 **#Live version deployes on Heroku**
 - https://todo-app-mern-joga.herokuapp.com/
--Test user: Test2@test2.com || Pass:123456789
+
+#Test user: Test2@test2.com || Pass:123456789
