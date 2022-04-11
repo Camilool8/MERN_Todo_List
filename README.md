@@ -26,3 +26,6 @@
 - react-scripts: "5.0.0",
 - sass: "^1.50.0",
 - web-vitals: "^2.1.4"
+
+**#Live version deployes on Heroku**
+- https://todo-app-mern-joga.herokuapp.com/
